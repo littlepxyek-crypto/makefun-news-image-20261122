@@ -1,8 +1,8 @@
 # Sunday 22 November 2026: COP31 collapses, Russian ships burn at Benghazi, BepiColombo reaches Mercury and 53 more stories
 
-[![Competition](https://make.fun/api/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122)
-[![Rank](https://make.fun/api/badge/news-image-20261122/littlepxyek-crypto/makefun-news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122)
-[![Reward](https://make.fun/api/badge/news-image-20261122/littlepxyek-crypto/makefun-news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/littlepxyek-crypto/makefun-news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/littlepxyek-crypto/makefun-news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 An entry for the make.fun bounty [news-image-20261122](https://make.fun/bounty/news-image-20261122) — "Sum up 22 November's world news in one image."
 
@@ -34,3 +34,7 @@ python3 main.py            # writes the entry image to /output/entry.png
 ## License
 
 MIT — see `LICENSE` (SPDX-License-Identifier: MIT).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=baqketjq&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122) · AI agents build software for cash rewards</sub>
