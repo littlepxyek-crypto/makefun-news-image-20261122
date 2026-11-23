@@ -1,0 +1,682 @@
+{
+ "alternates_not_used": [
+  "Ukraine strikes Russian military targets overnight (Ukrinform, Sun) - held as wire single-source.",
+  "Ukraine's drone forces claim 11 Russian targets hit in a day (Sun) - claimant-side figures.",
+  "Miley Cyrus / Ateez / obituaries verified via One Turn digest only for two items; kept with REPORTED labels."
+ ],
+ "date_check": [
+  "ICJ rules Myanmar committed genocide against the Rohingya - decided THU 19 NOV; Sunday brought the reaction, not the ruling.",
+  "EU-Indonesia trade pact signed in Brussels - that was SAT 21 NOV, not Sunday.",
+  "Trump-Xi-Putin summit in Shenzhen - held 19-20 NOV; only the fallout is Sunday's.",
+  "S&P 500 down 3.7% in the AI sell-off - that was FRIDAY's close, 20 NOV.",
+  "NOT YET: BepiColombo's two orbiters separate next month; any US decision on Iran may wait until 2027."
+ ],
+ "day": "Sunday 22 November 2026",
+ "note": "Corpus for the news-image-20261122 entry. Every story below was verified against a source dated Sunday 22 November 2026 (publication date or event date visible in the source) during research on Monday 23 November 2026 WIB. Stories that turned out to belong to another day are in date_check, not in the poster story list.",
+ "numbers": [
+  [
+   "258",
+   "Democrat House seats, most since 1992"
+  ],
+  [
+   "165",
+   "Russian missiles fired in a week"
+  ],
+  [
+   "35",
+   "lead changes in the Las Vegas GP"
+  ],
+  [
+   "24",
+   "dead in the Nigeria capsize"
+  ],
+  [
+   "36",
+   "missing in the Cikande fire"
+  ],
+  [
+   "8",
+   "premier-class titles for Márquez"
+  ]
+ ],
+ "stories": [
+  {
+   "dek": "The longest UN climate summit on record closes two days late after the EU, Panama and some 130 parties reject a draft that never mentions fossil fuels. 'No ambiguity in the science,' says Guterres.",
+   "field": "Climate",
+   "headline": "COP31 ENDS WITH NO DEAL IN ANTALYA",
+   "icon": "climate",
+   "kind": "hero",
+   "label": "CONFIRMED",
+   "lat": 36.9,
+   "lon": 30.7,
+   "place": "Antalya, Türkiye",
+   "region": "Europe",
+   "source": "BBC · AP · Reuters"
+  },
+  {
+   "dek": "Suspected Ukrainian sea drones strike the corvette Merkury and the freighter Ascalon inside a Libyan naval base overnight; 10 Libyan workers are hurt as the war's reach extends to North Africa.",
+   "field": "War",
+   "headline": "RUSSIAN WARSHIP BURNS AT BENGHAZI",
+   "icon": "ship",
+   "kind": "hero",
+   "label": "REPORTED",
+   "lat": 32.1,
+   "lon": 20.1,
+   "place": "Benghazi, Libya",
+   "region": "Africa",
+   "source": "Reuters · OSINT reports"
+  },
+  {
+   "dek": "After an eight-year cruise, the ESA-JAXA probe enters orbit around Mercury, only the third craft ever to do so. On Sunday ESA discloses a thruster glitch; the spacecraft is safe.",
+   "field": "Space",
+   "headline": "BEPICOLOMBO REACHES MERCURY AT LAST",
+   "icon": "mercury",
+   "kind": "hero",
+   "label": "REPORTED",
+   "lat": 49.9,
+   "lon": 8.7,
+   "place": "Mercury · ESA Darmstadt",
+   "region": "Oceania & Space",
+   "source": "Reuters · ESA"
+  },
+  {
+   "dek": "Zelenskyy's hometown hit; a woman of 20 also dies, about 60 wounded.",
+   "field": "War",
+   "headline": "BALLISTIC MISSILE KILLS BOY, 7, IN KRYVYI RIH",
+   "icon": "missile",
+   "kind": "card",
+   "label": "CONFIRMED",
+   "lat": 47.9,
+   "lon": 33.4,
+   "place": "Kryvyi Rih, Ukraine",
+   "region": "Europe",
+   "source": "AP · CNN"
+  },
+  {
+   "dek": "Part of a five-storey block falls at Dymer; at least 3 dead, rescuers dig on.",
+   "field": "War",
+   "headline": "DRONE STRIKE COLLAPSES BLOCK NEAR KYIV",
+   "icon": "building",
+   "kind": "card",
+   "label": "REPORTED",
+   "lat": 50.8,
+   "lon": 30.3,
+   "place": "Dymer, Ukraine",
+   "region": "Europe",
+   "source": "Kyiv Independent"
+  },
+  {
+   "dek": "Missiles and drones target US sites; Trump warns of fresh strikes after New Year.",
+   "field": "War",
+   "headline": "IRAN HITS US BASES IN BAHRAIN; TRUMP DARES TEHRAN",
+   "icon": "gulf",
+   "kind": "card",
+   "label": "REPORTED",
+   "lat": 26.2,
+   "lon": 50.6,
+   "place": "Bahrain · Gulf",
+   "region": "Middle East",
+   "source": "Reuters · Al Jazeera"
+  },
+  {
+   "dek": "Special forces seize the cartel boss in Guasave; 11 die in the firefight.",
+   "field": "Crime",
+   "headline": "'EL CHAPO ISIDRO' CAPTURED IN SINALOA",
+   "icon": "desert",
+   "kind": "card",
+   "label": "CONFIRMED",
+   "lat": 25.6,
+   "lon": -108.5,
+   "place": "Guasave, Mexico",
+   "region": "Latin America",
+   "source": "AP · Al Jazeera"
+  },
+  {
+   "dek": "Fire sweeps a candy factory in Cikande; search teams work through Sunday.",
+   "field": "Disaster",
+   "headline": "FACTORY FIRE IN BANTEN: 3 DEAD, 36 MISSING",
+   "icon": "factory",
+   "kind": "card",
+   "label": "CONFIRMED",
+   "lat": -6.3,
+   "lon": 106.3,
+   "place": "Cikande, Indonesia",
+   "region": "Asia",
+   "source": "AP · Reuters"
+  },
+  {
+   "dek": "Szoboszlai, Wirtz, Ngumoha, Muñoz score; Hull stun Brighton 2-0 earlier.",
+   "field": "Sport",
+   "headline": "LIVERPOOL ROUT UNITED 4-0 AT ANFIELD",
+   "icon": "football",
+   "kind": "card",
+   "label": "CONFIRMED",
+   "lat": 53.4,
+   "lon": -3.0,
+   "place": "Liverpool, England",
+   "region": "Europe",
+   "source": "Premier League"
+  },
+  {
+   "dek": "Beats Zverev 6-2, 7-6(7) in Turin, saving three set points; $5.17M payday.",
+   "field": "Sport",
+   "headline": "ALCARAZ LIFTS FIRST ATP FINALS CROWN",
+   "icon": "tennis",
+   "kind": "card",
+   "label": "CONFIRMED",
+   "lat": 45.1,
+   "lon": 7.7,
+   "place": "Turin, Italy",
+   "region": "Europe",
+   "source": "ATP · Reuters"
+  },
+  {
+   "dek": "Eighth at Portimão is enough to match Agostini; Bezzecchi wins the race.",
+   "field": "Sport",
+   "headline": "MARQUEZ SEALS EIGHTH MOTOGP CROWN",
+   "icon": "moto",
+   "kind": "card",
+   "label": "CONFIRMED",
+   "lat": 37.2,
+   "lon": -8.9,
+   "place": "Portimão, Portugal",
+   "region": "Europe",
+   "source": "Reuters · MotoGP"
+  },
+  {
+   "dek": "35 lead changes, 0.639s over Norris; race finishes early Sunday UTC.",
+   "field": "Sport",
+   "headline": "VERSTAPPEN WINS VEGAS THRILLER",
+   "icon": "f1",
+   "kind": "card",
+   "label": "REPORTED",
+   "lat": 36.2,
+   "lon": -115.1,
+   "place": "Las Vegas, USA",
+   "region": "North America",
+   "source": "Formula1.com"
+  },
+  {
+   "dek": "Final race calls give the party its largest House majority since 1992.",
+   "field": "Politics",
+   "headline": "DEMOCRATS REACH 258 HOUSE SEATS",
+   "icon": "capitol",
+   "kind": "card",
+   "label": "REPORTED",
+   "lat": 38.9,
+   "lon": -77.0,
+   "place": "Washington, USA",
+   "region": "North America",
+   "source": "AP"
+  },
+  {
+   "dek": "Cars and homes burned overnight; Israel opens an inquiry into the attacks.",
+   "field": "Conflict",
+   "headline": "SETTLERS TORCH VILLAGES NEAR RAMALLAH",
+   "icon": "village",
+   "kind": "card",
+   "label": "CONFIRMED",
+   "lat": 31.9,
+   "lon": 35.2,
+   "place": "West Bank",
+   "region": "Middle East",
+   "source": "AP"
+  },
+  {
+   "dek": "A boat carrying mourners overturns in southern Nigeria; rescue goes on.",
+   "field": "Disaster",
+   "headline": "FUNERAL BOAT CAPSIZES: 24 DEAD",
+   "icon": "boat",
+   "kind": "card",
+   "label": "CONFIRMED",
+   "lat": 5.5,
+   "lon": 6.5,
+   "place": "Southern Nigeria",
+   "region": "Africa",
+   "source": "AP"
+  },
+  {
+   "dek": "A mountain of runs leaves New Zealand trailing by 352 in the Test.",
+   "field": "Sport",
+   "headline": "INDIA DECLARE AT 720/9 IN WELLINGTON",
+   "icon": "cricket",
+   "kind": "card",
+   "label": "CONFIRMED",
+   "lat": -41.3,
+   "lon": 174.8,
+   "place": "Wellington, NZ",
+   "region": "Oceania & Space",
+   "source": "Wire reports"
+  },
+  {
+   "field": "War",
+   "kind": "list",
+   "label": "OFFICIAL",
+   "lat": 50.4,
+   "lon": 30.5,
+   "place": "Kyiv",
+   "region": "Europe",
+   "text": "Zelenskyy: 165 missiles, 2,700 drones in a week; Patriot plea"
+  },
+  {
+   "field": "War",
+   "kind": "list",
+   "label": "OFFICIAL",
+   "lat": 50.4,
+   "lon": 30.5,
+   "place": "Kyiv",
+   "region": "Europe",
+   "text": "Ukraine tally: 131 clashes in a day, 7,217 kamikaze drones"
+  },
+  {
+   "field": "War",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 15.6,
+   "lon": 32.6,
+   "place": "Khartoum",
+   "region": "Africa",
+   "text": "Drones strike civilian homes and a UN building"
+  },
+  {
+   "field": "War",
+   "kind": "list",
+   "label": "CLAIM",
+   "lat": 22.8,
+   "lon": 39.0,
+   "place": "Rabigh",
+   "region": "Middle East",
+   "text": "Houthis claim Rabigh refinery hit; Saudi says intercepted"
+  },
+  {
+   "field": "War",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 31.4,
+   "lon": 34.3,
+   "place": "Gaza",
+   "region": "Middle East",
+   "text": "Israeli strikes kill 3, wound 4, amid truce breaches"
+  },
+  {
+   "field": "Disaster",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 30.5,
+   "lon": 47.8,
+   "place": "Basra",
+   "region": "Middle East",
+   "text": "Power station fire kills four workers"
+  },
+  {
+   "field": "Energy",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 35.7,
+   "lon": 51.4,
+   "place": "Tehran",
+   "region": "Middle East",
+   "text": "Iran begins rationing electricity"
+  },
+  {
+   "field": "Diplomacy",
+   "kind": "list",
+   "label": "CONFIRMED",
+   "lat": 28.6,
+   "lon": 77.2,
+   "place": "Delhi",
+   "region": "Asia",
+   "text": "Nepal PM Shah in Delhi for state visit, meets Modi"
+  },
+  {
+   "field": "Diplomacy",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 28.2,
+   "lon": 94.0,
+   "place": "Arunachal",
+   "region": "Asia",
+   "text": "India-China corps-commander border talks conclude"
+  },
+  {
+   "field": "Politics",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 41.0,
+   "lon": 29.0,
+   "place": "Istanbul",
+   "region": "Europe",
+   "text": "Thousands protest takeover of media outlets"
+  },
+  {
+   "field": "Politics",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 47.9,
+   "lon": 106.9,
+   "place": "Ulaanbaatar",
+   "region": "Asia",
+   "text": "Mongolia faces a snap presidential vote"
+  },
+  {
+   "field": "Politics",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 22.3,
+   "lon": 114.2,
+   "place": "Hong Kong",
+   "region": "Asia",
+   "text": "Election Committee vote held"
+  },
+  {
+   "field": "Politics",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 37.6,
+   "lon": 127.0,
+   "place": "Seoul",
+   "region": "Asia",
+   "text": "Education minister resigns over AI cheating scandal"
+  },
+  {
+   "field": "Society",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 24.0,
+   "lon": 90.4,
+   "place": "Gazipur",
+   "region": "Asia",
+   "text": "Garment workers strike, clash with police"
+  },
+  {
+   "field": "Technology",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 46.2,
+   "lon": 6.1,
+   "place": "Geneva",
+   "region": "Europe",
+   "text": "UN talks on AI weapons end, no binding rules"
+  },
+  {
+   "field": "Health",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 42.4,
+   "lon": -71.1,
+   "place": "Boston",
+   "region": "North America",
+   "text": "One-off CRISPR therapy cuts LDL cholesterol 52%"
+  },
+  {
+   "field": "Science",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": null,
+   "lon": null,
+   "place": "Orbit",
+   "region": "Oceania & Space",
+   "text": "Earth gains a new mini-moon: 2026 QQ8"
+  },
+  {
+   "field": "Science",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": null,
+   "lon": null,
+   "place": "Open ocean",
+   "region": "Oceania & Space",
+   "text": "Whale genome read from breath caught by drone"
+  },
+  {
+   "field": "Science",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 35.7,
+   "lon": 139.7,
+   "place": "Tokyo",
+   "region": "Asia",
+   "text": "Milky Way simulation hits record detail"
+  },
+  {
+   "field": "Science",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 31.5,
+   "lon": -99.0,
+   "place": "Texas",
+   "region": "North America",
+   "text": "One feather may reveal black rail migration"
+  },
+  {
+   "field": "Culture",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 30.0,
+   "lon": -90.1,
+   "place": "New Orleans",
+   "region": "North America",
+   "text": "First museum inside a children's hospital opens"
+  },
+  {
+   "field": "Politics",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": -15.8,
+   "lon": -47.9,
+   "place": "Brasília",
+   "region": "Latin America",
+   "text": "Bolsonaro stable in intensive care"
+  },
+  {
+   "field": "Diplomacy",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 55.7,
+   "lon": 12.6,
+   "place": "Copenhagen",
+   "region": "Europe",
+   "text": "Denmark expels Russian in foiled rapper plot"
+  },
+  {
+   "field": "Politics",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 51.5,
+   "lon": -0.1,
+   "place": "London",
+   "region": "Europe",
+   "text": "Theresa May to PM Burnham: move on from Brexit"
+  },
+  {
+   "field": "Politics",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 40.4,
+   "lon": -3.7,
+   "place": "Madrid",
+   "region": "Europe",
+   "text": "Parties brace for 29 Nov election"
+  },
+  {
+   "field": "Technology",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 52.5,
+   "lon": 13.4,
+   "place": "Berlin",
+   "region": "Europe",
+   "text": "Army tests AI-guided kamikaze drones"
+  },
+  {
+   "field": "Economy",
+   "kind": "list",
+   "label": "OFFICIAL",
+   "lat": -34.6,
+   "lon": -58.4,
+   "place": "Buenos Aires",
+   "region": "Latin America",
+   "text": "Argentina approves $50bn LNG project"
+  },
+  {
+   "field": "Crime",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 38.9,
+   "lon": -77.0,
+   "place": "Washington",
+   "region": "North America",
+   "text": "FBI criminal database reportedly hacked"
+  },
+  {
+   "field": "Politics",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 47.6,
+   "lon": -122.3,
+   "place": "Seattle",
+   "region": "North America",
+   "text": "Airport immigration arrests spark outcry"
+  },
+  {
+   "field": "Culture",
+   "kind": "list",
+   "label": "CONFIRMED",
+   "lat": 37.6,
+   "lon": 127.0,
+   "place": "Seoul",
+   "region": "Asia",
+   "text": "Ateez take fourth No. 1 on Billboard 200"
+  },
+  {
+   "field": "Culture",
+   "kind": "list",
+   "label": "CONFIRMED",
+   "lat": 25.0,
+   "lon": 121.6,
+   "place": "Taipei",
+   "region": "Asia",
+   "text": "Hong Kong film wins Golden Horse feature prize"
+  },
+  {
+   "field": "Culture",
+   "kind": "list",
+   "label": "CONFIRMED",
+   "lat": -37.8,
+   "lon": 145.0,
+   "place": "Melbourne",
+   "region": "Oceania & Space",
+   "text": "Molly Meldrum, Countdown host, dies at 83"
+  },
+  {
+   "field": "Culture",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 41.9,
+   "lon": 12.5,
+   "place": "Rome",
+   "region": "Europe",
+   "text": "Paolo Bulgari dies at 89"
+  },
+  {
+   "field": "Culture",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": -25.7,
+   "lon": 28.2,
+   "place": "Pretoria",
+   "region": "Africa",
+   "text": "Mlambo-Ngcuka, ex-deputy president, dies at 71"
+  },
+  {
+   "field": "Culture",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 33.8,
+   "lon": -116.5,
+   "place": "Palm Springs",
+   "region": "North America",
+   "text": "Miley Cyrus marries Maxx Morando"
+  },
+  {
+   "field": "Sport",
+   "kind": "list",
+   "label": "CONFIRMED",
+   "lat": 39.1,
+   "lon": -94.6,
+   "place": "Kansas City",
+   "region": "North America",
+   "text": "KC Current win first NWSL Championship"
+  },
+  {
+   "field": "Sport",
+   "kind": "list",
+   "label": "CONFIRMED",
+   "lat": 26.1,
+   "lon": -81.8,
+   "place": "Naples, Fla.",
+   "region": "North America",
+   "text": "Thitikul wins LPGA finale, third straight year"
+  },
+  {
+   "field": "Sport",
+   "kind": "list",
+   "label": "CONFIRMED",
+   "lat": 11.0,
+   "lon": -74.9,
+   "place": "Barranquilla",
+   "region": "Latin America",
+   "text": "Boca Juniors lift the Copa Sudamericana"
+  },
+  {
+   "field": "Sport",
+   "kind": "list",
+   "label": "CONFIRMED",
+   "lat": 52.6,
+   "lon": -2.1,
+   "place": "Wolverhampton",
+   "region": "Europe",
+   "text": "Gerwyn Price wins Grand Slam of Darts"
+  },
+  {
+   "field": "Sport",
+   "kind": "list",
+   "label": "REPORTED",
+   "lat": 40.7,
+   "lon": -74.0,
+   "place": "New York",
+   "region": "North America",
+   "text": "Skubal reportedly agrees $450M Mets deal"
+  }
+ ],
+ "timeline": [
+  [
+   "06:00 UTC",
+   "Lights out in Las Vegas; the Grand Prix runs into Sunday"
+  ],
+  [
+   "07:40 UTC",
+   "Verstappen takes the flag, 0.639s clear of Norris"
+  ],
+  [
+   "OVERNIGHT",
+   "Sea drones hit Russian ships at Benghazi; a block falls at Dymer"
+  ],
+  [
+   "10:07 UTC",
+   "Ukraine's General Staff posts the day's battle tally: 131 clashes"
+  ],
+  [
+   "14:00 UTC",
+   "Hull stun Brighton 2-0; Márquez clinches the title at Portimão"
+  ],
+  [
+   "16:30 UTC",
+   "Liverpool 4-0 Manchester United at Anfield"
+  ],
+  [
+   "EVENING",
+   "Alcaraz wins in Turin; COP31 gavels out in Antalya with no deal"
+  ]
+ ]
+}
